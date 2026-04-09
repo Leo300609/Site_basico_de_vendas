@@ -21,3 +21,5 @@ Projeto de uma *landing page* profissional para uma empresa de hospedagem de sit
 
 ---
 Desenvolvido como parte dos meus estudos em Análise e Desenvolvimento de Sistemas (ADS). 💻🔥
+
+Com base no curso de Front-End completo do Matheus Battisti. 💻🔥
